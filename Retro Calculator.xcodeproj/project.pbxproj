@@ -13,6 +13,7 @@
 		8D3962471E803ACB00439A50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D3962461E803ACB00439A50 /* Assets.xcassets */; };
 		8D39624A1E803ACB00439A50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D3962481E803ACB00439A50 /* LaunchScreen.storyboard */; };
 		8D3962521E80481700439A50 /* Minecraftia.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8D3962511E80481600439A50 /* Minecraftia.ttf */; };
+		8D3962541E804B4D00439A50 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8D3962531E804B4D00439A50 /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8D3962491E803ACB00439A50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D39624B1E803ACB00439A50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D3962511E80481600439A50 /* Minecraftia.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraftia.ttf; sourceTree = "<group>"; };
+		8D3962531E804B4D00439A50 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		8D3962331E803AC900439A50 = {
 			isa = PBXGroup;
 			children = (
+				8D3962531E804B4D00439A50 /* btn.wav */,
 				8D3962511E80481600439A50 /* Minecraftia.ttf */,
 				8D39623E1E803ACA00439A50 /* Retro Calculator */,
 				8D39623D1E803ACA00439A50 /* Products */,
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D3962541E804B4D00439A50 /* btn.wav in Resources */,
 				8D39624A1E803ACB00439A50 /* LaunchScreen.storyboard in Resources */,
 				8D3962471E803ACB00439A50 /* Assets.xcassets in Resources */,
 				8D3962521E80481700439A50 /* Minecraftia.ttf in Resources */,
